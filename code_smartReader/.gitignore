@@ -1,0 +1,8 @@
+.env
+__pycache__
+/assets/Images
+/utils/pickle
+/faiss_db/faiss_index
+/faiss_db/csv_faiss_index
+/faiss_db/image_desc_faiss_index
+tree.txt
